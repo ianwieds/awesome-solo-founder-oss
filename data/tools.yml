@@ -23,6 +23,10 @@ tools:
     repo: https://github.com/princepal9120/tkt-cli
     category: ideation
     use: TikTok trend discovery
+  - name: startup-find
+    repo: https://github.com/princepal9120/startup-find
+    category: ideation
+    use: Local CLI for YC and a16z-style startup data — seeds public datasets into SQLite for offline agent queries
   - name: linkedin-cli
     repo: https://github.com/Linked-API/linkedin-cli
     category: ideation
@@ -56,6 +60,11 @@ tools:
     repo: https://github.com/heygen-com/hyperframes
     category: design
     use: HTML-to-video launch explainers
+
+  - name: iconscan
+    repo: https://github.com/princepal9120/iconscan
+    category: design
+    use: Deterministic icon audits for React/Next.js/TS apps
 
   - name: Open SaaS
     repo: https://github.com/wasp-lang/open-saas
@@ -173,6 +182,11 @@ tools:
     repo: https://github.com/Hmbown/CodeWhale
     category: ai-agent
     use: DeepSeek-first agentic coding terminal
+
+  - name: Shiba
+    repo: https://github.com/princepal9120/shiba
+    category: ai-agent
+    use: Self-hosted AI coworker on Cloudflare
 
   - name: Polar
     repo: https://github.com/polarsource/polar
@@ -500,3 +514,8 @@ tools:
     repo: https://github.com/princepal9120/devrunner
     category: productivity
     use: Rust-powered terminal task runner with zero configuration
+
+  - name: MacPulse
+    repo: https://github.com/princepal9120/MacPulse
+    category: productivity
+    use: Native macOS system utility — deep cache cleaning, APFS analysis, duplicate finding, live resource monitoring

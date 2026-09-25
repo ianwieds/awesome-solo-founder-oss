@@ -130,8 +130,9 @@ Find painful problems, communities, keywords, and trend signals.
 | [twitter-cli](https://github.com/public-clis/twitter-cli) | X/Twitter feed, bookmarks, and timeline research in terminal |
 | [rdt-cli](https://github.com/public-clis/rdt-cli) | Reddit feeds, posts, search, saves, and subscriptions in terminal |
 | [ig-cli](https://github.com/princepal9120/ig-cli) | Instagram trend discovery and content research |
-| [tkt-cli](https://github.com/princepal9120/tkt-cli) | TikTok trend discovery for terminal-first research |
-| [linkedin-cli](https://github.com/Linked-API/linkedin-cli) | Agent-friendly LinkedIn data and account CLI |
+|| [tkt-cli](https://github.com/princepal9120/tkt-cli) | TikTok trend discovery for terminal-first research |
+|| [startup-find](https://github.com/princepal9120/startup-find) | Local CLI for YC and a16z-style startup data — seeds public datasets into SQLite for offline agent queries |
+|| [linkedin-cli](https://github.com/Linked-API/linkedin-cli) | Agent-friendly LinkedIn data and account CLI |
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Multi-platform search/read CLI for agents |
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Crawls Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, Zhihu |
 
@@ -147,7 +148,8 @@ Create landing pages, prototypes, and design-to-code workflows.
 | [Plasmic](https://github.com/plasmicapp/plasmic) | Visual builder for React apps, sites, and content |
 | [GrapesJS](https://github.com/GrapesJS/grapesjs) | Open-source web builder framework |
 | [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | Figma layout context for AI coding agents |
-| [Hyperframes](https://github.com/heygen-com/hyperframes) | HTML-to-video motion graphics for launch explainers |
+|| [Hyperframes](https://github.com/heygen-com/hyperframes) | HTML-to-video launch explainers |
+|| [iconscan](https://github.com/princepal9120/iconscan) | Deterministic icon audits for React/Next.js/TS apps — score, find dead icons, recommend alternatives |
 
 ## Starter kits
 
@@ -212,7 +214,8 @@ Use agents to code, test, browse, inspect design, and run product workflows.
 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Curated MCP server list |
 | [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) | Open-source multimodal desktop agent stack |
 | [CowAgent](https://github.com/zhayujie/CowAgent) | AI assistant and agent harness |
-| [CodeWhale](https://github.com/Hmbown/CodeWhale) | DeepSeek-first agentic coding terminal |
+|| [CodeWhale](https://github.com/Hmbown/CodeWhale) | DeepSeek-first agentic coding terminal |
+|| [Shiba](https://github.com/princepal9120/shiba) | Self-hosted AI coworker on Cloudflare — agentic coworker that runs alongside your team |
 
 Playbook: [agent-assisted product build sprint](playbooks/agent-assisted-product-build-sprint.md)
 
@@ -364,7 +367,8 @@ Local tools for faster solo-operator workflows.
 | [LocalSend](https://github.com/localsend/localsend) | Local cross-platform file sharing |
 | [Syncthing](https://github.com/syncthing/syncthing) | Continuous private file sync |
 | [Zoxide](https://github.com/ajeetdsouza/zoxide) | Smarter terminal directory jumping |
-| [devrunner](https://github.com/princepal9120/devrunner) | Rust-powered terminal task runner with zero configuration |
+|| [devrunner](https://github.com/princepal9120/devrunner) | Rust-powered terminal task runner with zero configuration |
+|| [MacPulse](https://github.com/princepal9120/MacPulse) | Native macOS system utility — deep cache cleaning, app uninstall residuals, APFS analysis, duplicate finding, live resource monitoring |
 
 ## Data
 
